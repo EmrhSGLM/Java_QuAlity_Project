@@ -1,0 +1,167 @@
+Soru 1 :   ***** Hadi Bey *****
+	  Eğer age 10 dan küçük veya eşit ise
+          facebook hesabi acmak icin cok gencsin print yapın.
+
+          Eğer age 16 dan küçük veya eşit ise
+          ehliyet almak icin cok gencsin print yapın.
+
+          Eğer age 18 den küçük veya eşit ise
+          dovme yaptirmak icin cok gencsin print yapın.
+
+          Eğer age 21 den küçük veya eşit ise
+          alkol icmek icin cok gencsin print yapın.
+
+          Eğer age 21 den büyük ise
+          istedigini yapabilirsin print yapın.
+	
+	Not : Note: if else kullanarak cozum yapiniz.
+
+Soru 2 : ***** Hadi  Bey *****
+	Veri tipi int olan number verildiğinde, number  çift mi tek mi kontrol et
+
+        Eğer number çift ise  print true
+
+        Eğer number tek ise  print false
+
+        Sonuc true ya da false olmalı.
+
+Soru 3 :  ***** Sezai Bey *****
+	Kullanıcı tarafından girilen inputda kac tane 'b' karakteri olduğunu belirle ve print et.
+
+     	input: Test output
+            b: 0
+        output 0 olmalı
+
+
+     	input: bucket
+            b:1
+        output 1 olmalı
+
+	ipucu :  .charAt, length(), for, index, counter
+
+Soru 4 :  ***** Sezai Bey *****
+	  Veri tipi int olan variable(değişken) verildiğinde
+
+                Eger int 1 ise print monday
+                Eger int 2 ise print tuesday
+                Eger int 3 ise print wednesday
+                Eger int 4 ise print thursday
+                Eger int 5 ise print friday
+                Eger int 6 ise print saturday
+                Eger int 7 ise print sunday
+                Eger int 8 den buyuk ise  print "this is not a valid day"
+
+                NOT : BU PROBLEMI ÇÖZERKEN SWITCH STATEMENT KULLANIN
+
+Soru 5 : ***** Hikmet Bey *****
+	Scanner class aracılığıyla girilen herhangi bir sayının faktöriyel değerini
+         bulmak için bir program yazın.
+
+        number:6
+        factorial:1*2*3*4*5*6=720
+        output ---> 720
+
+Soru 6 : ***** Hikmet Bey *****
+	3 tane pozitif String verildiğinde
+     sayısal olmayan tüm karakterleri kaldırın.
+     Stringleri int e çevirin
+     ve total print edin
+
+         Ornek:
+        String num1 = "$15";
+        String num2 = "$20";
+        String num3 = "$30";
+        output ----> 65; olmali
+
+        NOT : Eğer output 0 dan küçük ise outputu -1 e cevir
+
+Soru 7 : ***** Tugba Hanim *****
+	    Pozitif bir int  num verildiğinde, return edildiği zaman num tamkare ise true veren değilse
+    false veren bir foksiyon yazın.
+
+         Not: sqrt gibi fonksiyonları  kullanmayın.
+
+        Example 1:
+        Input: 16
+        Output: true
+        Not: bu sayı tamkare çünkü 4*4 = 16
+
+        Example 2:
+        Input: 25
+        Output: true
+        Note: bu sayı tamkare çünkü 5*5=25
+
+
+        Example 3:
+        Input: 14
+        Output: false
+
+Soru 8 : ***** Tugba Hanim *****
+	Veri tipi int olan bir sayı verildiğinde
+
+   	 0 dan başlayarak verilen sayıya kadar olan tum cift sayıları print edin.
+
+   	 Example 1:
+    	int input = 10;
+
+   	print  0 2 4 6 8 10  olmalı
+
+
+    	Example 2:
+    	int input = 15;
+
+   	 print  0 2 4 6 8 10 12 14  olmalı
+
+Soru 9 : ***** Zuhal Hanim *****
+	Veri tipi integer olan max sayısı verildiğinde
+
+    	0 ile max sayisi arasindan random bir sayi elde et(olustur)
+
+    	output tipi int olmalı
+
+Soru 10 : ***** Emrah Bey *****
+	İki tane pozitif integer sayısı verildiğinde
+
+   	sayı 1 min degerinde
+
+   	sayı 2 max degerinde
+
+   	min ve max arasinda random sayi elde et(olustur)
+
+    	output veri tipi int olmali
+
+Soru 11 : ***** Gokhan Bey *****
+	Bir String verildiğinde
+
+        Eger String harf sayisi tek ise true print et değilse false print et
+
+Soru 12 : ***** Murat Bey *****
+	Scanner class kullanılarak verilen iki tane Stringi birbirlerine ekle .
+
+        Eger ilk kelimenin son harfi ikinci kelimenin ilk harfi ile aynı ise aynı olan harflerin 
+        birisini kaldırın
+
+       	Örnek:      "abc", "cat" --> "abcat"
+                   "abc", "dog"  -->"abcdog"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
