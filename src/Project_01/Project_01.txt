@@ -147,7 +147,28 @@ Soru 12 : ***** Murat Bey *****
 
 
 
+cozumu
 
+
+		Scanner scan = new Scanner(System.in);
+		System.out.println("lutfen  ilk kelimeyi giriniz : ");
+
+		String kelime1 = scan.nextLine();
+
+		System.out.println("lutfen  ikinci ikinci giriniz : ");
+
+		String kelime2 = scan.nextLine();
+
+		
+
+		if (kelime1.charAt(kelime1.length() - 1) == kelime2.charAt(0)) {
+
+			//2.secenek System.out.println(isim1.substring(0, isim1.length()-1)+isim2);
+			System.out.println(kelime1 + kelime2.substring(1, kelime2.length()));
+
+		} else {
+			System.out.println(kelime1 + kelime2);
+		}
 
 
 
